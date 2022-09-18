@@ -22,6 +22,7 @@ void main(){    //Requesting from OS for this instruction to run.
             break;
         case 3: //It will exit the program
             i=0;
+            break;
         default:    //If someone enter (A-Z, a-z) or combination of (A-Z, a-z and 0-9) then shows invalid input and exit the program.
             printf("\n\tI N V A L I D  I N P U T  !\n");
             i=0;
