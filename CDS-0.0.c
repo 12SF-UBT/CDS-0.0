@@ -1,5 +1,5 @@
 /* This is the main program that execute for further process. */
-# include <stdio.h> // Library
+# include <stdio.h> // Library or module
 void main(){    // Requesting from OS for this instruction to run.
     int choice, i=1;    // Created two variable
     while (i == 1) {    // This line insure that program never ends unless you type invalid input.
